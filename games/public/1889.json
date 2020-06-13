@@ -8,6 +8,7 @@
     "orientation": "horizontal",
     "titleX": 280,
     "titleY": 860,
+    "mustSellInBlocks": true,
     "currency": "¥#"
   },
   "links": {
